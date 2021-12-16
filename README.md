@@ -18,7 +18,7 @@ Then install this script with :
 
 ```
 git clone https://github.com/Gyrfalc0n/scanlist-log4j.git
-cd log4j-scan
+cd scanlist-log4j
 mv *.sh ../scan-log4j
 cd ../scan-log4j
 ```
