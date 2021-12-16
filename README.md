@@ -1,7 +1,7 @@
 # scanlist-log4j
 Simple bash script to scan multiples url for log4j vulnerability (CVE-2021-44228). This script uses the log4j scanner from **Fullhunt** : [https://github.com/fullhunt/log4j-scan](https://github.com/fullhunt/log4j-scan), and allow a better reading of results when testing multiples urls from a file.
 
-![Image](capture.png)
+![Image](https://github.com/Gyrfalc0n/scanlist-log4j/blob/main/Capture.PNG)
 
 ## Installation
 
