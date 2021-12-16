@@ -31,7 +31,7 @@ Execute the script with :
 ```
 ./scanlist-log4j.sh <url_list_file>
 ```
-Each url to scan will be scanned simultaneously in a thread, resulting of a much faster execution time when scanning for multiples urls.
+Each url to scan will be scanned simultaneously in a thread, resulting of a much faster execution time when scanning for multiples urls. Results are printed in terminal as the screen above. You always can check details in the `output.log` file.
 
 ## Check if host are up and running http/https
 
