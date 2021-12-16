@@ -24,6 +24,8 @@ cd ../scan-log4j
 ```
 Now you are ready to execute the script, but before that you need a file containing the urls you want to scan for log4j vulnerability. Make sure the file is readable and in the same directory of the scripts.
 
+## Execution
+
 Execute the script with : 
 
 ```
