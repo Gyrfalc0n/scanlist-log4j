@@ -15,7 +15,7 @@ done
 wait
 end=`date +%s`
 echo Execution time was `expr $end - $start` seconds.
-result=$(cat result-thread.txt | grep "Targets does not seem to be vulnerable" | wc -l)
+result=$(cat output.log | grep "Targets does not seem to be vulnerable" | wc -l)
 echo "$result targets does not seem to be vulnerable" 
 if [[ $result < $number ]]
 then
