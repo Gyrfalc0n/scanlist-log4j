@@ -19,8 +19,8 @@ Then install this script with :
 ```
 git clone https://github.com/Gyrfalc0n/scanlist-log4j.git
 cd scanlist-log4j
-mv *.sh ../scan-log4j
-cd ../scan-log4j
+mv *.sh ../log4j-scan
+cd ../log4j-scan
 ```
 Now you are ready to execute the script, but before that you need a file containing the urls you want to scan for log4j vulnerability. Make sure the file is readable and in the same directory of the scripts.
 
